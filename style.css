@@ -1,0 +1,49 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+}
+.price{
+    color: #ff136f;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.catagories{
+    margin-top:70px; 
+}
+.cat-1,.cat-2,.cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat-1{
+    background-color: darkorange;
+}
+.cat-2{
+    background-color: #ff136f;
+
+}
+.cat-3{
+    background-color: blue;
+}
+.catagories h1{
+color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.h-100{
+    border: none;
+    box-shadow: 5px 5px 15px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.last_btn{
+    margin-top: 5px;
+}
+footer{
+    text-align: center;
+}
